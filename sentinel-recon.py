@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Red Team Reconnaissance Framework v2.0 - Offensive Security Tool
-Author: Umair Majeed
+Author: Jerrome_1
 Description: Advanced red teaming and offensive reconnaissance automation
 Warning: For authorized security testing only!
 """
